@@ -153,24 +153,6 @@ The results can help businesses:
 
 ---
 
-## Project Structure
-
-```
-Amazon_Reviews_Sentiment_Analysis/
-│
-├── Amazon_Reviews.csv
-├── Amazon_Reviews_Cleaned.csv
-├── Amazon_Reviews_Sentiment_Emotion.csv
-├── Amazon_Reviews_Sentiment_Analysis.ipynb
-├── README.md
-└── images/
-    ├── sentiment_distribution.png
-    ├── rating_vs_sentiment.png
-    └── emotion_distribution.png
-```
-
----
-
 ## Skills Demonstrated
 
 - Data Cleaning
